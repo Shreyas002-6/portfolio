@@ -15,7 +15,7 @@ grid-gap: 20px;
 }
 #term{
 position: absolute;
-margin-left: 300px;
+
 }
 .terminal {
 --color: #FF00FF;
